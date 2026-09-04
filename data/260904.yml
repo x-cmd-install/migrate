@@ -7,7 +7,7 @@ about:
   head: 01a9643
   archived: false
   latestVersion: v4.19.1
-  collectedAt: 2026-09-04T19:21:11Z
+  collectedAt: 2026-09-04T21:18:44Z
 timeline:
   created: 2018-01-19
   lastCommit: 2026-08-31
@@ -84,6 +84,49 @@ total:
   openIssue: 311
   commit: 1439
 ---
+path: /home/runner/.x-repo/github.com/golang-migrate/migrate
+collectedAt: 2026-09-04T21:18:45Z
+loc:
+  Go:
+    code: 18653
+    comments: 1258
+    blanks: 3240
+    files: 142
+  Sql:
+    code: 366
+    comments: 41
+    blanks: 34
+    files: 180
+  Json:
+    code: 117
+    comments: 0
+    blanks: 0
+    files: 8
+  Makefile:
+    code: 77
+    comments: 2
+    blanks: 41
+    files: 1
+  Dockerfile:
+    code: 28
+    comments: 0
+    blanks: 14
+    files: 2
+  Sh:
+    code: 3
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1155
+    blanks: 338
+    files: 44
+total:
+  code: 19448
+  comments: 2462
+  blanks: 3692
+  files: 378
 ---
 date: "2026-08-24"
 repo:
