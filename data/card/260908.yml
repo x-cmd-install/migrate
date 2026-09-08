@@ -5,13 +5,13 @@ about:
   head: 5bcd008
   archived: false
   latestVersion: "v4.19.1"
-  collectedAt: 2026-09-08T02:25:16Z
+  collectedAt: 2026-09-08T05:09:47Z
 timeline:
   created: 2018-01-19
   lastCommit: 2026-09-07
   lastRelease: 2025-11-29
 popularity:
-  star: 18902
+  star: 18903
   watcher: 88
   fork: 1607
   release: 55
@@ -83,7 +83,7 @@ total:
   commit: 1442
 ---
 path: /home/runner/.x-repo/github.com/golang-migrate/migrate
-collectedAt: 2026-09-08T02:25:17Z
+collectedAt: 2026-09-08T05:09:49Z
 loc:
   Go:
     code: 18729
