@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 394181,
       "digest": "sha256:a81780cf0fd577735fc58ce6c2f9829b3b8c9a2f41d326c9edbe3f00ff271c68",
-      "download_count": 1185,
+      "download_count": 1186,
       "created_at": "2025-11-29T21:15:55Z",
       "updated_at": "2025-11-29T21:15:56Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate-4.19.1.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17860807,
       "digest": "sha256:e010d5d1792fa9b368c846f0aa297982322aa5739e784608d3cea653d297e0f4",
-      "download_count": 1869,
+      "download_count": 1877,
       "created_at": "2025-11-29T21:15:52Z",
       "updated_at": "2025-11-29T21:15:53Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16667896,
       "digest": "sha256:a8cc8657afd1c2c93c78e8b77fd2275d150c29ebc1fff0e8fe0be68751503468",
-      "download_count": 10570,
+      "download_count": 10728,
       "created_at": "2025-11-29T21:15:55Z",
       "updated_at": "2025-11-29T21:15:56Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 16289644,
       "digest": "sha256:b145ad846d09d30437b4773dd5f6618c30105bb7861e71156a55033a031f1337",
-      "download_count": 2469,
+      "download_count": 2475,
       "created_at": "2025-11-29T21:15:52Z",
       "updated_at": "2025-11-29T21:15:54Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.linux-386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 17468698,
       "digest": "sha256:aa1c407d6d5ca267f1f2a44647f261a8a0f16c047a79da9734837fdf1fd8b5a8",
-      "download_count": 15164,
+      "download_count": 15229,
       "created_at": "2025-11-29T21:15:57Z",
       "updated_at": "2025-11-29T21:15:58Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.linux-amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 17394526,
       "digest": "sha256:2ac648fbd1b127b69ab5a7b33cf96212178f71e22379fc50573630c6f4c7ce18",
-      "download_count": 1123236,
+      "download_count": 1129429,
       "created_at": "2025-11-29T21:15:54Z",
       "updated_at": "2025-11-29T21:15:55Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.linux-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15832376,
       "digest": "sha256:63924f86ac4fbe333491d40b345a5f9856f44794f7d5f1a1e0e5ca1a8901e1a8",
-      "download_count": 2554,
+      "download_count": 2575,
       "created_at": "2025-11-29T21:15:56Z",
       "updated_at": "2025-11-29T21:15:57Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.linux-arm64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 15767922,
       "digest": "sha256:2fea2455c0f3f07cc3f4b98471c951ad1a716059574b20b6416bd1e9058751c5",
-      "download_count": 41273,
+      "download_count": 41856,
       "created_at": "2025-11-29T21:15:52Z",
       "updated_at": "2025-11-29T21:15:54Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.linux-arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 17894237,
       "digest": "sha256:d2537dfd991787c1e458965c4f49098c5a72f943bfc9d975c573a9c245f7ba2e",
-      "download_count": 6044,
+      "download_count": 6057,
       "created_at": "2025-11-29T21:15:54Z",
       "updated_at": "2025-11-29T21:15:55Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.windows-amd64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15911902,
       "digest": "sha256:f626ae8027741a6f879ee00d72433dc17edc00bad91cbb8a7192c91cb1a4ca88",
-      "download_count": 1170,
+      "download_count": 1176,
       "created_at": "2025-11-29T21:15:55Z",
       "updated_at": "2025-11-29T21:15:56Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/migrate.windows-arm64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1367,
       "digest": "sha256:fe2db7af527650cd2e2810d33174be3309d64d0c272000b34f65334057eb8197",
-      "download_count": 51679,
+      "download_count": 52123,
       "created_at": "2025-11-29T21:15:57Z",
       "updated_at": "2025-11-29T21:15:57Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.19.1/sha256sum.txt"
