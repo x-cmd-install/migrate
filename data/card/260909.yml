@@ -4,24 +4,24 @@ about:
   homepage: 
   head: 504568a
   archived: false
-  latestVersion: "v4.19.1"
-  latestRelease: "v4.19.1"
+  latestVersion: "v4.20.1"
+  latestRelease: "v4.20.1"
   latestPrerelease: "v4.15.0-beta.1"
-  collectedAt: 2026-09-09T05:17:53Z
+  collectedAt: 2026-09-09T19:35:30Z
 timeline:
   created: 2018-01-19
   lastCommit: 2026-09-09
-  lastVersion: 2025-11-29
-  lastRelease: 2025-11-29
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 2021-08-04
 popularity:
-  star: 18907
+  star: 18905
   watcher: 88
-  fork: 1609
-  release: 55
+  fork: 1610
+  release: 57
   contributor: 244
-  pullRequest: 696
-  issue: 689
+  pullRequest: 698
+  issue: 690
 language:
   Go: 572583
   Makefile: 4546
@@ -32,62 +32,62 @@ totalBytes: 578636
 recent:
   last30d:
     since: 2026-08-10
-    release: 0
+    release: 2
     mergedPR: 4
-    openPR: 6
+    openPR: 8
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 9
   last60d:
     since: 2026-07-11
-    release: 0
+    release: 2
     mergedPR: 6
-    openPR: 13
+    openPR: 15
     closedIssue: 0
-    openIssue: 3
+    openIssue: 4
     commit: 9
   last90d:
     since: 2026-06-11
-    release: 0
+    release: 2
     mergedPR: 7
-    openPR: 17
+    openPR: 19
     closedIssue: 0
-    openIssue: 5
+    openIssue: 6
     commit: 13
   last180d:
     since: 2026-03-13
-    release: 0
+    release: 2
     mergedPR: 13
-    openPR: 35
+    openPR: 37
     closedIssue: 0
-    openIssue: 7
+    openIssue: 8
     commit: 13
   last360d:
     since: 2025-09-14
-    release: 1
+    release: 3
     mergedPR: 23
-    openPR: 46
+    openPR: 48
     closedIssue: 3
-    openIssue: 21
+    openIssue: 22
     commit: 25
   last720d:
     since: 2024-09-19
-    release: 4
+    release: 6
     mergedPR: 44
-    openPR: 85
+    openPR: 87
     closedIssue: 13
-    openIssue: 51
+    openIssue: 52
     commit: 76
 total:
-  release: 55
+  release: 57
   mergedPR: 293
-  openPR: 175
+  openPR: 177
   closedIssue: 378
-  openIssue: 311
+  openIssue: 312
   commit: 1446
 ---
 path: /home/runner/.x-repo/github.com/golang-migrate/migrate
-collectedAt: 2026-09-09T05:17:54Z
+collectedAt: 2026-09-09T19:35:33Z
 loc:
   Go:
     code: 18807
