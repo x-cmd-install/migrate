@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.20.1"
   latestRelease: "v4.20.1"
   latestPrerelease: "v4.15.0-beta.1"
-  collectedAt: 2026-09-10T05:11:18Z
+  collectedAt: 2026-09-10T17:21:51Z
 timeline:
   created: 2018-01-19
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2021-08-04
 popularity:
-  star: 18905
+  star: 18907
   watcher: 88
   fork: 1610
   release: 57
@@ -87,7 +87,7 @@ total:
   commit: 1446
 ---
 path: /home/runner/.x-repo/github.com/golang-migrate/migrate
-collectedAt: 2026-09-10T05:11:19Z
+collectedAt: 2026-09-10T17:21:52Z
 loc:
   Go:
     code: 18807
