@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 355774,
       "digest": "sha256:09ba3b11e4ef1525d96674d9c9348878955874633539da95e3bc3862b1c469a8",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-09T06:04:22Z",
       "updated_at": "2026-09-09T06:04:23Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate-4.20.1.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 18816941,
       "digest": "sha256:acb7c3756fbfea5ae2985eaeb5aa7769ecfdd43bd179a7240f9bebf4b45fee89",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-09T06:04:20Z",
       "updated_at": "2026-09-09T06:04:21Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17568938,
       "digest": "sha256:d66f87e41eb6beda9328f0ef99a34c1c51411a0663a782111fb519f3652506c2",
-      "download_count": 66,
+      "download_count": 98,
       "created_at": "2026-09-09T06:04:20Z",
       "updated_at": "2026-09-09T06:04:21Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 17310110,
       "digest": "sha256:c451fb888b2255f68f7cb8066ca83846413326f983b1062a825068799dcd24fe",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-09T06:04:23Z",
       "updated_at": "2026-09-09T06:04:24Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-386.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17252858,
       "digest": "sha256:96a24418d7b6917212b2a46a06b6124c12ff3e19bac08dae0332036e28d218ee",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-09T06:04:21Z",
       "updated_at": "2026-09-09T06:04:22Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 18400110,
       "digest": "sha256:472aa4ab31008377aa8e88739330f08b4dd75673aaaf0b7c5f7632553dc34f7a",
-      "download_count": 30,
+      "download_count": 34,
       "created_at": "2026-09-09T06:04:24Z",
       "updated_at": "2026-09-09T06:04:24Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 18322552,
       "digest": "sha256:b1e13121d4178b7804a9fb29dca62d57b732390f7e5ae33f2cd65e9b192e1bd4",
-      "download_count": 2150,
+      "download_count": 2385,
       "created_at": "2026-09-09T06:04:22Z",
       "updated_at": "2026-09-09T06:04:24Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 16674966,
       "digest": "sha256:fbb18ad17d6920b16f6bdf72b1c8eefc69c62562e459748cd8bdc6ac76f1ebd4",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-09-09T06:04:22Z",
       "updated_at": "2026-09-09T06:04:23Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-arm64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 16611335,
       "digest": "sha256:03ea70d9ba535b68fe03602120d1856a567cd0fa2fbca3748ba8070e9d4b8f60",
-      "download_count": 552,
+      "download_count": 572,
       "created_at": "2026-09-09T06:04:21Z",
       "updated_at": "2026-09-09T06:04:22Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 17517900,
       "digest": "sha256:ccec41d73207fa0d51d81cd4c01a92a6d86b551befd42d53548d6c9faf946c19",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-09T06:04:24Z",
       "updated_at": "2026-09-09T06:04:25Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-armv7.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 17462375,
       "digest": "sha256:737345a6982ecc29b383b9b1ec8afc07dffff78a0bf19619f762ab88bf2e9efa",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-09T06:04:21Z",
       "updated_at": "2026-09-09T06:04:22Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-armv7.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 18128185,
       "digest": "sha256:dbdd250326b9875fe35a928cc1444955e50703ed56b358278ff3705d444f382b",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-09T06:04:20Z",
       "updated_at": "2026-09-09T06:04:21Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.windows-386.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 18828629,
       "digest": "sha256:bf68e2fdd1c8efd3cac59c6cb4cddca51546c402e3fc616172329d7686875ce8",
-      "download_count": 47,
+      "download_count": 51,
       "created_at": "2026-09-09T06:04:22Z",
       "updated_at": "2026-09-09T06:04:23Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.windows-amd64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 16754518,
       "digest": "sha256:7e7bf6db821e35831f4a36a57a8b64dd8f897a2a5e9d5c7921355fff3676032f",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-09T06:04:20Z",
       "updated_at": "2026-09-09T06:04:22Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.windows-arm64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1275,
       "digest": "sha256:7fa57ffb05d2c85393ef2fcfe7835639b09d373f6a1aa3e4c579220d3349f897",
-      "download_count": 943,
+      "download_count": 959,
       "created_at": "2026-09-09T06:04:24Z",
       "updated_at": "2026-09-09T06:04:24Z",
       "browser_download_url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/sha256sum.txt"
