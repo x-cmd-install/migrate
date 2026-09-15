@@ -26,7 +26,7 @@ Total: **19,398** lines of code across **333** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,918 · **Forks**: 1,612 · **Open issues**: 690 · **Contributors**: 244
+- **Stars**: 18,919 · **Forks**: 1,612 · **Open issues**: 690 · **Contributors**: 244
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 293 · **Open PRs**: 179 · **Closed issues**: 378 · **Open issues**: 312 · **Commits**: 1446
+- **Releases**: 57 · **Merged PRs**: 293 · **Open PRs**: 181 · **Closed issues**: 378 · **Open issues**: 312 · **Commits**: 1446
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 4 | 10 | 0 | 1 | 9 |
-| last60d | 2026-07-16 | 2 | 5 | 17 | 0 | 4 | 9 |
-| 90d | 2026-06-16 | 2 | 6 | 21 | 0 | 6 | 13 |
-| last180d | 2026-03-18 | 2 | 13 | 38 | 0 | 8 | 13 |
-| 360d | 2025-09-19 | 3 | 23 | 50 | 3 | 21 | 25 |
-| last720d | 2024-09-24 | 6 | 44 | 86 | 13 | 51 | 75 |
+| 30d | 2026-08-16 | 2 | 4 | 12 | 0 | 1 | 9 |
+| last60d | 2026-07-17 | 2 | 5 | 19 | 0 | 4 | 9 |
+| 90d | 2026-06-17 | 2 | 6 | 23 | 0 | 6 | 13 |
+| last180d | 2026-03-19 | 2 | 12 | 40 | 0 | 8 | 13 |
+| 360d | 2025-09-20 | 3 | 23 | 52 | 3 | 21 | 25 |
+| last720d | 2024-09-25 | 6 | 44 | 88 | 13 | 50 | 75 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for migrate lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:33:57Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:38:45Z._
