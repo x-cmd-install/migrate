@@ -4,7 +4,7 @@
 
 Database migrations. CLI and Golang library.
 
-![migrate](https://repo.x-cmd.io/migrate.svg)
+[![x-cmd/install — migrate Code Quality Monitoring Repo Card](https://repo.x-cmd.io/migrate.svg)](https://x-cmd.com/install/migrate)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,929 · **Forks**: 1,612 · **Open issues**: 691 · **Contributors**: 244
+- **Stars**: 18,930 · **Forks**: 1,611 · **Open issues**: 691 · **Contributors**: 244
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 4 | 10 | 0 | 2 | 9 |
-| last60d | 2026-07-20 | 2 | 5 | 19 | 0 | 5 | 9 |
-| 90d | 2026-06-20 | 2 | 6 | 23 | 0 | 7 | 13 |
-| last180d | 2026-03-22 | 2 | 12 | 39 | 0 | 9 | 13 |
-| 360d | 2025-09-23 | 3 | 23 | 52 | 3 | 22 | 25 |
-| last720d | 2024-09-28 | 6 | 44 | 88 | 12 | 51 | 75 |
+| 30d | 2026-08-21 | 2 | 4 | 10 | 0 | 2 | 9 |
+| last60d | 2026-07-22 | 2 | 5 | 18 | 0 | 5 | 9 |
+| 90d | 2026-06-22 | 2 | 6 | 23 | 0 | 7 | 13 |
+| last180d | 2026-03-24 | 2 | 12 | 39 | 0 | 9 | 13 |
+| 360d | 2025-09-25 | 3 | 23 | 52 | 3 | 22 | 25 |
+| last720d | 2024-09-30 | 6 | 44 | 88 | 12 | 51 | 75 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for migrate lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:41:58Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:25:45Z._
