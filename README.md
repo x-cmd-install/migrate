@@ -26,7 +26,7 @@ Total: **19,398** lines of code across **333** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,989 · **Forks**: 1,619 · **Open issues**: 694 · **Contributors**: 244
+- **Stars**: 18,993 · **Forks**: 1,619 · **Open issues**: 694 · **Contributors**: 244
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 7 | 0 | 3 | 0 |
-| last60d | 2026-08-27 | 2 | 4 | 17 | 0 | 5 | 7 |
-| 90d | 2026-07-28 | 2 | 5 | 23 | 0 | 8 | 9 |
-| last180d | 2026-04-29 | 2 | 9 | 34 | 0 | 10 | 13 |
-| 360d | 2025-10-31 | 3 | 20 | 52 | 4 | 23 | 23 |
-| last720d | 2024-11-05 | 6 | 42 | 83 | 12 | 52 | 74 |
+| 30d | 2026-09-27 | 0 | 0 | 8 | 0 | 3 | 0 |
+| last60d | 2026-08-28 | 2 | 4 | 17 | 0 | 5 | 7 |
+| 90d | 2026-07-29 | 2 | 5 | 24 | 0 | 8 | 9 |
+| last180d | 2026-04-30 | 2 | 9 | 35 | 0 | 10 | 13 |
+| 360d | 2025-11-01 | 3 | 20 | 52 | 3 | 23 | 23 |
+| last720d | 2024-11-06 | 6 | 42 | 83 | 12 | 51 | 74 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for migrate lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:03:30Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:29:39Z._
