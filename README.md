@@ -26,7 +26,7 @@ Total: **19,723** lines of code across **335** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.20.1` (2026-09-09)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 19,028 · **Forks**: 1,676 · **Open issues**: 696 · **Contributors**: 245
+- **Stars**: 19,028 · **Forks**: 1,711 · **Open issues**: 696 · **Contributors**: 245
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 294 · **Open PRs**: 185 · **Closed issues**: 380 · **Open issues**: 316 · **Commits**: 1447
+- **Releases**: 57 · **Merged PRs**: 295 · **Open PRs**: 184 · **Closed issues**: 380 · **Open issues**: 316 · **Commits**: 1448
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 7 | 1 | 3 | 1 |
-| last60d | 2026-09-17 | 0 | 1 | 16 | 1 | 4 | 1 |
-| 90d | 2026-08-18 | 2 | 5 | 25 | 1 | 6 | 10 |
-| last180d | 2026-05-20 | 2 | 8 | 39 | 1 | 11 | 14 |
-| 360d | 2025-11-21 | 3 | 17 | 58 | 3 | 22 | 19 |
-| last720d | 2024-11-26 | 6 | 42 | 89 | 13 | 49 | 75 |
+| 30d | 2026-10-18 | 0 | 2 | 6 | 1 | 3 | 2 |
+| last60d | 2026-09-18 | 0 | 2 | 15 | 1 | 4 | 2 |
+| 90d | 2026-08-19 | 2 | 6 | 24 | 1 | 6 | 11 |
+| last180d | 2026-05-21 | 2 | 9 | 38 | 1 | 11 | 15 |
+| 360d | 2025-11-22 | 3 | 18 | 57 | 3 | 22 | 20 |
+| last720d | 2024-11-27 | 6 | 43 | 88 | 13 | 49 | 76 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for migrate lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:15:33Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:40:46Z._
